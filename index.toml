@@ -140,18 +140,8 @@ hash = "f29e899d3ead4a05e74c558d4cc71d89d0f7b031070e9f4703e9f5e5a6e2324f"
 metafile = true
 
 [[files]]
-file = "mods/create-irradiated.pw.toml"
-hash = "7846866460945d900a777cfae912ad31461aeb43816b9d6ba8e8649ce923a23f"
-metafile = true
-
-[[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "1ba1548e25b229c3097a310113d2929c94d6b5f183b64a0ebb2227799195cfcd"
-metafile = true
-
-[[files]]
-file = "mods/create-sweets-and-treats.pw.toml"
-hash = "738b8b80e2f5b01f40f7c9c5b95fcdab8239b2a627d584dcd32ec534ec8fff1c"
 metafile = true
 
 [[files]]
@@ -332,11 +322,6 @@ metafile = true
 [[files]]
 file = "mods/mystical-agriculture.pw.toml"
 hash = "4bdeb76d67a9f647ef37303bcb9403b8281d5cd8dd99d7505afbca21b2b26158"
-metafile = true
-
-[[files]]
-file = "mods/not-enough-animations.pw.toml"
-hash = "1cf472e0f1b127010e11ddc13bbce9f82b7fc5764b0bcfaf229631ed4f1e15c9"
 metafile = true
 
 [[files]]
