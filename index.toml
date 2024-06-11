@@ -91,7 +91,7 @@ metafile = true
 
 [[files]]
 file = "mods/cb-compressed-blocks.pw.toml"
-hash = "b43bc88bce0ce7c4e4308bb3c75a11b642ba7144e08f34a34142a4feafba7d1c"
+hash = "4acd8b377bfa5630f128fa811f82896511b7e638c90f7adaf56c5d154253a1f8"
 metafile = true
 
 [[files]]
@@ -270,11 +270,6 @@ hash = "8da51e31d146df07a51fa173d5c1d3f99affb78e478945e2c19f6af412212cd6"
 metafile = true
 
 [[files]]
-file = "mods/interactive.pw.toml"
-hash = "3fc2c0c66bc9eea83561f2b2bafd4b2358dfef382bff4a3cbca5f15c72ca01e7"
-metafile = true
-
-[[files]]
 file = "mods/iron-chests.pw.toml"
 hash = "4aba12c2a18205fe6d25d1af817ee8c0baa580a74048cb30c659f6be66f31d2e"
 metafile = true
@@ -391,7 +386,7 @@ metafile = true
 
 [[files]]
 file = "mods/occultism.pw.toml"
-hash = "6e80fb4607fb568355345e17494b690ec36a9bd95a692e7073a2de8a87eb0555"
+hash = "7747efdffa4ad45615b0bf99f24fba02964c65e6853de86a3029282dd8c25053"
 metafile = true
 
 [[files]]
