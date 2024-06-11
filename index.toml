@@ -155,11 +155,6 @@ hash = "efb9cf070be73bc4fe9458a553fd2e470009bb98d44d66c7681fe06c93aee8d7"
 metafile = true
 
 [[files]]
-file = "mods/create-love-war.pw.toml"
-hash = "4f7b365a33e34e7fb05c76925e78b748e5fa503860dbfb60a8578b577c07204a"
-metafile = true
-
-[[files]]
 file = "mods/create-new-age.pw.toml"
 hash = "011d35087c3d81b17000ba7604a73fef600a868021eed8c14df2dc2b77ca7ddc"
 metafile = true
@@ -176,7 +171,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "c464b21ac8baf5ed1d22a0c4bacfcf24977e04dc938add65a2a93bcaf704c22e"
+hash = "6ecc31d75d379730df8fe950438b4ca26ed1daa8612406374552665f9222f9ea"
 metafile = true
 
 [[files]]
@@ -222,11 +217,6 @@ metafile = true
 [[files]]
 file = "mods/falling-leaves-forge.pw.toml"
 hash = "e932f7abbc799791d19e9bb6dba0dacf5ed75ef165911bf375cf584141c657d8"
-metafile = true
-
-[[files]]
-file = "mods/flans-mod-reloaded.pw.toml"
-hash = "86efb3d56d3826c6edb99e994856451d2fac5742d4b645878aa56870df35a97b"
 metafile = true
 
 [[files]]
@@ -277,16 +267,6 @@ metafile = true
 [[files]]
 file = "mods/incendium.pw.toml"
 hash = "8da51e31d146df07a51fa173d5c1d3f99affb78e478945e2c19f6af412212cd6"
-metafile = true
-
-[[files]]
-file = "mods/integrated-api.pw.toml"
-hash = "56eb691a13dd6219a8195d2df15365734d59ff83e82bc36fdc63bee18b123885"
-metafile = true
-
-[[files]]
-file = "mods/integrated-stronghold.pw.toml"
-hash = "bf404059848bec2c6b0c3a915668ec04d46000a5d8520debb62fa1fc5d2a6c99"
 metafile = true
 
 [[files]]
@@ -435,11 +415,6 @@ hash = "b92705dd6c13490d14e7c96e01fd1f2fd726f7974da13311ae98c79b0a6c6137"
 metafile = true
 
 [[files]]
-file = "mods/quark.pw.toml"
-hash = "e5b5a551515ed711ab492864b2ec56baa53796825f71dfe0f0b164271d3f725f"
-metafile = true
-
-[[files]]
 file = "mods/rats.pw.toml"
 hash = "b866bd3d88a52bb8a83c6552f84a94b0f364b002a22859cf38f8cddf72d1b20e"
 metafile = true
@@ -457,11 +432,6 @@ metafile = true
 [[files]]
 file = "mods/sanity-descent-into-madness.pw.toml"
 hash = "f765e9ddeb51d4f1d02b48bf6565ff76db1ae5e953890a0d576b7c6fb311ba1b"
-metafile = true
-
-[[files]]
-file = "mods/selene.pw.toml"
-hash = "b1fb68db400bb8b08be0a25b5924d30d9007711469a58cfd2664a5e11e823345"
 metafile = true
 
 [[files]]
@@ -497,11 +467,6 @@ metafile = true
 [[files]]
 file = "mods/storage-drawers.pw.toml"
 hash = "ce92a2870c50085508caf9b680efffdfdd50b54e240e7bf047b6833c66ac139e"
-metafile = true
-
-[[files]]
-file = "mods/supplementaries.pw.toml"
-hash = "a85bc847fdb25b1e48e2bdec3108f4509a799dc3c5c043190ce00b852aa604f0"
 metafile = true
 
 [[files]]
@@ -582,9 +547,4 @@ metafile = true
 [[files]]
 file = "mods/yungs-bridges.pw.toml"
 hash = "97a03cf27afe3b50d3b9e97b79fda3e30a6d74e3b3c3fee3db28a4d7b20bc516"
-metafile = true
-
-[[files]]
-file = "mods/zeta.pw.toml"
-hash = "86f3fe9dfda1e20b94ab08770214641e16882e314230d250f2f854a2051b4bde"
 metafile = true
