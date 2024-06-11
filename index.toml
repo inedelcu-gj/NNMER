@@ -5,6 +5,10 @@ file = "README.md"
 hash = "a2ae86353ce1af11f07bf38257a237f0abe788ef1fb5209bcb9c57661ac6c26d"
 
 [[files]]
+file = "cmd"
+hash = "757dd89ff64b1158cb682c6740eb1b82e7864755180a2e2f3558c22c365e0215"
+
+[[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "bfee68aa4fe03e5240ca57da075319f4aadb6a8099bc96965a3a9fd6bb816f29"
 metafile = true
@@ -527,11 +531,6 @@ metafile = true
 [[files]]
 file = "mods/weeping-angels.pw.toml"
 hash = "8c413c39f5d05ab8221a1cf22767a8fbb65283822eca3384cd766a8a5bcb5a79"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-minimap.pw.toml"
-hash = "d7c59d391361b917e0ba2f0a59a641591686c6995b4b9e6f5ac0fc7e6b95e4f4"
 metafile = true
 
 [[files]]
