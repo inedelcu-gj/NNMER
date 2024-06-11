@@ -5,10 +5,6 @@ file = "README.md"
 hash = "a2ae86353ce1af11f07bf38257a237f0abe788ef1fb5209bcb9c57661ac6c26d"
 
 [[files]]
-file = "cmd"
-hash = "757dd89ff64b1158cb682c6740eb1b82e7864755180a2e2f3558c22c365e0215"
-
-[[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "bfee68aa4fe03e5240ca57da075319f4aadb6a8099bc96965a3a9fd6bb816f29"
 metafile = true
