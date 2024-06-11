@@ -1,0 +1,13 @@
+name = "NNMER"
+author = "Neddimus Maximus"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "85e7730ac02357fba017db90679c53beb68660c225345df3fcdd7a7c8df47533"
+
+[versions]
+forge = "47.3.1"
+minecraft = "1.20.1"
