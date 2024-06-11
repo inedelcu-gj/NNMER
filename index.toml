@@ -205,11 +205,6 @@ hash = "6c011a2fe6fddca76c41a4be322d8c25997c01e9f830ed23b69e3ee066d37274"
 metafile = true
 
 [[files]]
-file = "mods/distant-horizons.pw.toml"
-hash = "4d05ade00afb76af5e0269c923649cccdfb564597d438a09aab70226f508f9a6"
-metafile = true
-
-[[files]]
 file = "mods/elytra-slot.pw.toml"
 hash = "a2663a196a9991708b9eefe7505e1775e67c4ad996a15b493513f318c9b82352"
 metafile = true
