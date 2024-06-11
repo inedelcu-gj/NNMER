@@ -150,11 +150,6 @@ hash = "f29e899d3ead4a05e74c558d4cc71d89d0f7b031070e9f4703e9f5e5a6e2324f"
 metafile = true
 
 [[files]]
-file = "mods/create-dreams-desires.pw.toml"
-hash = "2c4dc7f60fa4d3e5557639946406bf4fa3c4a45799cc828977d707ee4b671d58"
-metafile = true
-
-[[files]]
 file = "mods/create-enchantment-industry.pw.toml"
 hash = "cc6024c02ab4cfcadea22833dd439456f726a23525d05ef2dfde0bb5e2d541af"
 metafile = true
@@ -185,16 +180,6 @@ hash = "1ba1548e25b229c3097a310113d2929c94d6b5f183b64a0ebb2227799195cfcd"
 metafile = true
 
 [[files]]
-file = "mods/create-totem-factory.pw.toml"
-hash = "863566ffb4912bed2c72f779e2c8608f64910741d4191529d079dbe5939104e1"
-metafile = true
-
-[[files]]
-file = "mods/create-weaponry.pw.toml"
-hash = "9eb6159adac4fa81bdbd7bd1d7467feed8d71531f50f532e120d1cd2c0bd86df"
-metafile = true
-
-[[files]]
 file = "mods/create.pw.toml"
 hash = "c464b21ac8baf5ed1d22a0c4bacfcf24977e04dc938add65a2a93bcaf704c22e"
 metafile = true
@@ -217,11 +202,6 @@ metafile = true
 [[files]]
 file = "mods/decorative-blocks.pw.toml"
 hash = "02e3f47ff5a2fa074996387e14c81718e5c4df16dbe75ba1e1021157352f7815"
-metafile = true
-
-[[files]]
-file = "mods/detected-setblock-be-gone.pw.toml"
-hash = "3155502f39959b150a27893ef4005e430275b6d873012c719198306cabd6ba39"
 metafile = true
 
 [[files]]
@@ -472,26 +452,6 @@ metafile = true
 [[files]]
 file = "mods/rats.pw.toml"
 hash = "b866bd3d88a52bb8a83c6552f84a94b0f364b002a22859cf38f8cddf72d1b20e"
-metafile = true
-
-[[files]]
-file = "mods/realm-rpg-creep-crop.pw.toml"
-hash = "7ea90f57af0eaca45cd5a8fbc74c71323bd70ff8fed9825bd9cb0d36a8b42cc6"
-metafile = true
-
-[[files]]
-file = "mods/realm-rpg-dragon-wyrms.pw.toml"
-hash = "f62d7a222828a775e82d08a8e174b61c01a11a59531b108643d8e33afb400eaf"
-metafile = true
-
-[[files]]
-file = "mods/realm-rpg-fallen-adventurers.pw.toml"
-hash = "9d0937d036c25a7726722609fe28e38b07590ca9c095053ad69291ced61dbe0f"
-metafile = true
-
-[[files]]
-file = "mods/realm-rpg-imps-demons.pw.toml"
-hash = "cec964f76cbc78e9ff22347a27f44a4cbb0e6da437218ed0c71ef6d19ac812ad"
 metafile = true
 
 [[files]]
