@@ -1,0 +1,13 @@
+name = "Create: Deepslate Crushing"
+filename = "mcr-v2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "56478ce1234528a6eea0d1322a42add544052468"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4785951
+project-id = 920415
