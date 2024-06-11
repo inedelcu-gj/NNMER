@@ -365,6 +365,11 @@ hash = "17042dd194ce5fca77a48561a9362f62b6faa0c1d25b00953cf3041405906f8f"
 metafile = true
 
 [[files]]
+file = "mods/milkmans-nukes.pw.toml"
+hash = "dfcc9459243880c605184e7aecb61c2e54173161ae78e7c28d83a3a533a4b2c0"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "c835e3734d6bd1156827fb51f539bf8871d1d87a237561ed38f59d3deb0c8d54"
 metafile = true
