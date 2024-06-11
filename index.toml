@@ -460,6 +460,11 @@ hash = "f765e9ddeb51d4f1d02b48bf6565ff76db1ae5e953890a0d576b7c6fb311ba1b"
 metafile = true
 
 [[files]]
+file = "mods/selene.pw.toml"
+hash = "b1fb68db400bb8b08be0a25b5924d30d9007711469a58cfd2664a5e11e823345"
+metafile = true
+
+[[files]]
 file = "mods/simplehats.pw.toml"
 hash = "45eda6f15d39b56d64bf6796c1fde8c70db629cb9fc25abc4e39852151b7927d"
 metafile = true
