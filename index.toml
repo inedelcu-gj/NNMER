@@ -435,11 +435,6 @@ hash = "9c0743b63f9f6903ea23c39930a052efd2f2080d6a540e6d8c54f0b649475f94"
 metafile = true
 
 [[files]]
-file = "mods/pots-and-mimics-rpg.pw.toml"
-hash = "cc335b14ea69222d7aa291f5faf4eeb8d27d1246c22c305a73c7a01f31e98d67"
-metafile = true
-
-[[files]]
 file = "mods/prism-lib.pw.toml"
 hash = "b92705dd6c13490d14e7c96e01fd1f2fd726f7974da13311ae98c79b0a6c6137"
 metafile = true
