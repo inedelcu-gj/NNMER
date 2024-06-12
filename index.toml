@@ -410,6 +410,11 @@ hash = "4bdeb76d67a9f647ef37303bcb9403b8281d5cd8dd99d7505afbca21b2b26158"
 metafile = true
 
 [[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "464e83a35e22e9bbdf7be38cf7a7a98c39462a0a50b01d2a1355bcae9167ea7a"
+metafile = true
+
+[[files]]
 file = "mods/nether-depths-upgrade.pw.toml"
 hash = "19bcecfa3d942e4dddda2f84987b10718809ee9b09ee8461d993b951b538810d"
 metafile = true
