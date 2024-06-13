@@ -120,6 +120,11 @@ hash = "ba1bdad41e3c9ec131330f048fc6f9bcb753ca3e9bfa1e41d60d6ca11afbc2e6"
 metafile = true
 
 [[files]]
+file = "mods/cave-spider-spawn.pw.toml"
+hash = "2b975fa85234c5384ea21ffb69fec62680f5c65964fe81c28164305f2d70aad1"
+metafile = true
+
+[[files]]
 file = "mods/cb-compressed-blocks.pw.toml"
 hash = "4acd8b377bfa5630f128fa811f82896511b7e638c90f7adaf56c5d154253a1f8"
 metafile = true
@@ -262,6 +267,11 @@ metafile = true
 [[files]]
 file = "mods/exposure.pw.toml"
 hash = "5eb5a1b0ce99c73188ebfd5d45d2c563fe745556ad18d7e1dc745a70afd55e1b"
+metafile = true
+
+[[files]]
+file = "mods/extract-poison.pw.toml"
+hash = "9d6787d62c0c07cc1dd45fcea66f38fa2ff8667168a8ad6407d66b9d1d31074a"
 metafile = true
 
 [[files]]
@@ -477,6 +487,11 @@ metafile = true
 [[files]]
 file = "mods/nether-depths-upgrade.pw.toml"
 hash = "19bcecfa3d942e4dddda2f84987b10718809ee9b09ee8461d993b951b538810d"
+metafile = true
+
+[[files]]
+file = "mods/nether-portal-spread.pw.toml"
+hash = "03785801020047cecb198480f20190e36a6af7e562e851bbacd6fc0d3df79bf2"
 metafile = true
 
 [[files]]
