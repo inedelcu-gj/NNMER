@@ -195,11 +195,6 @@ hash = "011d35087c3d81b17000ba7604a73fef600a868021eed8c14df2dc2b77ca7ddc"
 metafile = true
 
 [[files]]
-file = "mods/create-nuke.pw.toml"
-hash = "56de64689d0354372841f48b5408909617c565138f3b459fff600d8d5de3fd7c"
-metafile = true
-
-[[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "1ba1548e25b229c3097a310113d2929c94d6b5f183b64a0ebb2227799195cfcd"
 metafile = true
@@ -232,11 +227,6 @@ metafile = true
 [[files]]
 file = "mods/dimensionaldoors.pw.toml"
 hash = "6c011a2fe6fddca76c41a4be322d8c25997c01e9f830ed23b69e3ee066d37274"
-metafile = true
-
-[[files]]
-file = "mods/distant-horizons.pw.toml"
-hash = "4d05ade00afb76af5e0269c923649cccdfb564597d438a09aab70226f508f9a6"
 metafile = true
 
 [[files]]
