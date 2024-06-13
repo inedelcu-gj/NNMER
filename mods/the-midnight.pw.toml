@@ -1,0 +1,13 @@
+name = "The Midnight"
+filename = "midnight-1.20.1-0.6.2-beta.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3cae90ede04eeabc6d50b2473bdfbdf979de9e0e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5061518
+project-id = 304881
