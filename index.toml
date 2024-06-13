@@ -615,11 +615,6 @@ hash = "67b8c6ae39e505e811416d77fba82bf45d713ed9ad240f0f7e0b6af1f300a14e"
 metafile = true
 
 [[files]]
-file = "mods/the-midnight.pw.toml"
-hash = "c405c411683f364b4c785679f3ebb36700c4389112113aea1c334138104248bc"
-metafile = true
-
-[[files]]
 file = "mods/tiny-item-animations.pw.toml"
 hash = "5eaa4fa6a1c57c47a7516724b27b3b75b35fd5aa1776f987907d5f15f91fa449"
 metafile = true
