@@ -210,6 +210,11 @@ hash = "e3675974e82fcae3aa0c612c5a7709739e6c83710ee4d0ccef890afcecc40c87"
 metafile = true
 
 [[files]]
+file = "mods/creativecore.pw.toml"
+hash = "32446647caba6dd865ec1fae8c5651dfd543efaaa0b40cfa75d56c39fe35d491"
+metafile = true
+
+[[files]]
 file = "mods/cucumber.pw.toml"
 hash = "c6c126decfaa56a0fe9f867259a3ea6a71a0da3e19df33b05e0d6592af3a1c74"
 metafile = true
@@ -342,6 +347,11 @@ metafile = true
 [[files]]
 file = "mods/iron-chests.pw.toml"
 hash = "4aba12c2a18205fe6d25d1af817ee8c0baa580a74048cb30c659f6be66f31d2e"
+metafile = true
+
+[[files]]
+file = "mods/itemphysic.pw.toml"
+hash = "e5c039e6bc40698d496e891ed08e401540228513da2c7ed83675a5544c8677da"
 metafile = true
 
 [[files]]
