@@ -235,11 +235,6 @@ hash = "a25d0d16d3da4c91a5b924e6372218b5b308eab4d07de5f5d48b801e08b506fc"
 metafile = true
 
 [[files]]
-file = "mods/dropz.pw.toml"
-hash = "f021345ef9ea178725e31b13a8276ed6ca0b89861be3c1857b81f3b062240157"
-metafile = true
-
-[[files]]
 file = "mods/elytra-slot.pw.toml"
 hash = "3dfbf226e9b5e0f4277c48e545533e9427af919c2a1f9c2d77dcb36d6619d86e"
 metafile = true
