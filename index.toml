@@ -95,6 +95,11 @@ hash = "82bf7d78a74b3565530674788878f7256c1235908328d95724a1218f7340fcbb"
 metafile = true
 
 [[files]]
+file = "mods/bobby-reforged.pw.toml"
+hash = "2a332a8963ab384a27f5257d38f9b78ad6d94f591dfd2eb14439d43abd5685da"
+metafile = true
+
+[[files]]
 file = "mods/botania.pw.toml"
 hash = "939e093a5dcac4f5437fc267f8ce2c82ddffa13e0912298d4d3b7917a13d1dc6"
 metafile = true
